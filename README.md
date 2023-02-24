@@ -16,7 +16,7 @@ The results show that the DCEDN outperforms several state-of-the-art models in t
 
 ## Data
 The code for data generation for SPDE is based on code provided with [1](https://doi.org/10.1016/j.jcp.2018.08.036),
-and the data for pressure Poisson equation is taken from article [2][https://doi.org/10.1016/j.neunet.2021.11.022]. 
+and the data for pressure Poisson equation is taken from article [2](https://doi.org/10.1016/j.neunet.2021.11.022). 
 
 ## Requirements
 
