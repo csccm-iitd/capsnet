@@ -8,7 +8,7 @@ In this article, we propose a deep learning model for surrogate modeling and unc
 The proposed model, called deep capsule encoder-decoder network (DCEDN), is a variant of the capsule network architecture that combines the benefits of both encoder-decoder networks and capsules. We evaluate the performance of the DCEDN on two different applications: a fluid dynamics problem and a stochastic partial differential equation (SPDE) based problem. 
 
 <p>
-    <img src="DCEDN.png" width="500" height="50" />
+    <img src="DCEDN.png" width="700" height="300" />
 </p>
 
 
